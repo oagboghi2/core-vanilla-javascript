@@ -89,9 +89,9 @@ Let's test our understanding by working on some Koans.
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
 - [x ] Edit AboutObjects.js to make all tests pass
-- [ ] Edit AboutFunctions.js to make all tests pass
-- [ ] Edit AboutArrays.js to make all tests pass
-- [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
+- [x ] Edit AboutFunctions.js to make all tests pass
+- [x ] Edit AboutArrays.js to make all tests pass
+- [x ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
 - [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 
 Ok, on for some more drills.
