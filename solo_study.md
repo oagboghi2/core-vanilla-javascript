@@ -20,7 +20,7 @@ Your objectives for the day are to achieve:
 - [x ] Complete "Working With Numbers"
 - [x ] Complete "Making Decisions with Conditional Statements"
 - [x ] Complete "Creating Reusable Code with Functions"
-- [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
+- [x ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
 
@@ -43,10 +43,10 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
+- [x ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+  - [x ] Link to your solution here (jsbin, gist, or a js file in this repo) https://repl.it/I1nz/4
+- [x ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+ - [x ] Link to your solution here https://repl.it/I2D5/6
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
  - [ ] Link to your solution here
 - [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
@@ -88,7 +88,7 @@ Let's test our understanding by working on some Koans.
 
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
-- [ ] Edit AboutObjects.js to make all tests pass
+- [x ] Edit AboutObjects.js to make all tests pass
 - [ ] Edit AboutFunctions.js to make all tests pass
 - [ ] Edit AboutArrays.js to make all tests pass
 - [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
