@@ -44,9 +44,9 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 ### Plan
 
 - [x ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [x ] Link to your solution here (jsbin, gist, or a js file in this repo) https://repl.it/I1nz/4
+  - [x ] Link to your solution here (jsbin, gist, or a js file in this repo) 
 - [x ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [x ] Link to your solution here https://repl.it/I2D5/6
+ - [x ] Link to your solution here 
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
  - [ ] Link to your solution here
 - [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
@@ -64,8 +64,8 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 - Browse in the terminal to the `js-assessment` folder in this repo.
 - Run `npm install` and `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
 - You should see a bunch of failing tests
-- [ ] Update `js-asessment/app/flowControl.js` to make the section's tests pass
-- [ ] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
+- [x ] Update `js-asessment/app/flowControl.js` to make the section's tests pass
+- [x ] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
 - [ ] Update `js-asessment/app/logicalNumbers.js` to make the section's tests pass
 
 
@@ -89,20 +89,20 @@ Let's test our understanding by working on some Koans.
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
 - [x ] Edit AboutObjects.js to make all tests pass
-- [ ] Edit AboutFunctions.js to make all tests pass
-- [ ] Edit AboutArrays.js to make all tests pass
-- [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
-- [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
+- [x ] Edit AboutFunctions.js to make all tests pass
+- [x ] Edit AboutArrays.js to make all tests pass
+- [x ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
+- [x ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 
 Ok, on for some more drills.
 
-- [ ] Sign up for an [edabit](http://edabit.com) account.
-- [ ] Solve all 10 array challenges linked in [/challenges/edabit-arrays.js](/challenges/edabit-arrays.js) and commit your solutions to the file
+- [x ] Sign up for an [edabit](http://edabit.com) account.
+- [x ] Solve all 10 array challenges linked in [/challenges/edabit-arrays.js](/challenges/edabit-arrays.js) and commit your solutions to the file
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
 - Run `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
 - You should see a bunch of failing tests
-- [ ] Update `js-asessment/app/arrays.js` to make the section's tests pass
+- [x ] Update `js-asessment/app/arrays.js` to make the section's tests pass
 - [ ] Update `js-asessment/app/strings.js` to make the section's tests pass
 - [ ] Update `js-asessment/app/objects.js` to make the section's tests pass
 - [ ] Update `js-asessment/app/count.js` to make the section's tests pass
